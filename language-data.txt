@@ -3,3 +3,4 @@ Estonian	A
 Finnish	A
 Swedish	C
 French	G
+Polish	H
