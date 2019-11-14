@@ -1,10 +1,9 @@
 language	value
 Estonian	A
+Swedish	C
+Veps B
+Hungarian J
 Finnish	A
-Swedish C
 French	G
-Polish	H
-Latvia	C
 Mansi K
 Klingon CC
-Hungarian J
