@@ -1,5 +1,9 @@
 language	value
 Estonian	A
-Finnish	B
 Swedish	C
 Veps B
+Hungarian J
+Finnish	A
+French	G
+Mansi K
+Klingon CC
