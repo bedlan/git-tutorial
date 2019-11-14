@@ -6,5 +6,5 @@ French	G
 Polish	H
 Latvia	C
 Mansi K
-Klingon CC
+Klingon C
 Hungarian J
