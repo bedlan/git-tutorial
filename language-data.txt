@@ -1,8 +1,10 @@
 language	value
 Estonian	A
 Finnish	A
-Swedish C
-French	G
+Swedish	C
+Karelian	A
+Esperanto	E
+Klingon	L
 Polish	H
 Latvia	C
 Mansi K
