@@ -1,4 +1,2 @@
 # git-tutorial
-Example tutorial for Git tutorial
-
-Lalalala!
+Example repository for Git tutorial
