@@ -7,3 +7,4 @@ Polish	H
 Latvia	C
 Mansi K
 Klingon CC
+Hungarian J
