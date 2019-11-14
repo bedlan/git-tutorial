@@ -3,3 +3,6 @@ Estonian	A
 Finnish	A
 Swedish	C
 Karelian	A
+Esperanto	E
+Klingon	Z
+
