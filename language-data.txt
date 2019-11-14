@@ -5,3 +5,4 @@ Swedish C
 French	G
 Polish	H
 Latvia	C
+Mansi K
