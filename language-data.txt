@@ -1,4 +1,4 @@
 language	value
 Estonian	A
 Finnish	A
-Swedish	B
+Swedish	C
