@@ -1,6 +1,7 @@
 language	value
 Estonian	A
 Finnish	A
-Swedish	C
+Swedish C
 French	G
 Polish	H
+Latvia	C
