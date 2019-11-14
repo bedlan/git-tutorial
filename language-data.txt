@@ -4,5 +4,9 @@ Finnish	A
 Swedish	C
 Karelian	A
 Esperanto	E
-Klingon	Z
-
+Klingon	L
+Polish	H
+Latvia	C
+Mansi K
+Klingon CC
+Hungarian J
